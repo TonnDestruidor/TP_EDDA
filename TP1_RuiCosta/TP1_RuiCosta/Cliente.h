@@ -6,10 +6,7 @@
  * \date   March 2023
  *********************************************************************/
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include <string.h>
+#include "Constantes.h"
 
 #pragma once
 
@@ -30,7 +27,13 @@ struct Cliente
 	float saldo;
 	Cliente* proximo;
 };
-
+/*
+typedef struct listaClientes
+{
+	Cliente cliente;
+	struct listaClientes *next;
+}listaClientes, *listaClientesPtr;
+*/
 //assinaturas de funções
 
 void adicionarClientes(Cliente cliente, Cliente** listaC);

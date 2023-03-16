@@ -1,3 +1,6 @@
-﻿  Program.c
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Program.c(10,1): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+﻿  ClienteFunctions.c
+D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\ClienteFunctions.c(46,5): warning C4013: 'gets' undefined; assuming extern returning int
+  Program.c
+D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Program.c(10,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
   TP1_RuiCosta.vcxproj -> D:\Projetos\TP_EDDA\TP1_RuiCosta\x64\Debug\TP1_RuiCosta.exe
