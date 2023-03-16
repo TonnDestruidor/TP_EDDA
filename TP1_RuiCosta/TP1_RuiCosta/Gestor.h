@@ -10,8 +10,8 @@
 
 //constantes
 
-#define tNome 30
-#define tMorada 80
+#define tNomeG 30
+#define tMoradaG 80
 #define txtFileG "D:\Projetos\TP_EDDA\TP1_RuiCosta\GSaveTxt.txt"
 #define binFileG "D:\Projetos\TP_EDDA\TP1_RuiCosta\GSaveBin.txt"
 
@@ -21,7 +21,7 @@ typedef struct Gestor Gestor;
 struct Gestor
 {
 	int nif;
-	char nome[tNome], morada[tMorada];
+	char nome[tNomeG], morada[tMoradaG];
 	Gestor* proximo;
 };
 

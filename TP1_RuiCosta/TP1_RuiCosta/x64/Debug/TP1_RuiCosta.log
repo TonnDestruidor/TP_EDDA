@@ -1,12 +1,3 @@
-﻿  ClienteFunctions.c
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Gestor.h(15,1): warning C4005: 'txtFile': macro redefinition
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Cliente.h(15,1): message : see previous definition of 'txtFile'
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Gestor.h(16,1): warning C4005: 'binFile': macro redefinition
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Cliente.h(16,1): message : see previous definition of 'binFile'
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\MeioDeME.h(13,1): warning C4005: 'tNome': macro redefinition
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Cliente.h(13,1): message : see previous definition of 'tNome'
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\MeioDeME.h(15,1): warning C4005: 'txtFile': macro redefinition
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Gestor.h(15,1): message : see previous definition of 'txtFile'
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\MeioDeME.h(16,1): warning C4005: 'binFile': macro redefinition
-D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Gestor.h(16,1): message : see previous definition of 'binFile'
+﻿  Program.c
+D:\Projetos\TP_EDDA\TP1_RuiCosta\TP1_RuiCosta\Program.c(10,1): warning C4305: 'inicializando': truncamento de 'double' para 'float'
   TP1_RuiCosta.vcxproj -> D:\Projetos\TP_EDDA\TP1_RuiCosta\x64\Debug\TP1_RuiCosta.exe

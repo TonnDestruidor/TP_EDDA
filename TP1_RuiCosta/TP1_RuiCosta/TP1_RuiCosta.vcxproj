@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Cliente.h" />
+    <ClInclude Include="ClienteFunctions.h" />
+    <ClInclude Include="Constantes.h" />
     <ClInclude Include="Gestor.h" />
     <ClInclude Include="MeioDeME.h" />
   </ItemGroup>

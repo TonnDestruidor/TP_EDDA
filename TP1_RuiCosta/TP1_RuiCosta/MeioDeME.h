@@ -10,8 +10,9 @@
 
 //constantes
 
-#define tNome 20;
-#define tGeocodigo 20;
+#define tNomeM 20
+#define tGeocodigo 20
+#define tMatricula 9
 #define txtFileM "D:\Projetos\TP_EDDA\TP1_RuiCosta\MSaveTxt.txt"
 #define binFileM "D:\Projetos\TP_EDDA\TP1_RuiCosta\MSaveBin.txt"
 
@@ -30,9 +31,9 @@ typedef enum tCarga
 typedef struct MeiosDeME MeiosDeME;
 struct MeiosDeME
 {
-	char nome[20], geocodigo;
+	char nome[tNomeM], geocodigo[tGeocodigo], matricula[tMatricula];
 	tCarga carga;
-	int custo, autonomia, matricula;
+	int custo, autonomia;
 	MeiosDeME* proximo;
 };
 

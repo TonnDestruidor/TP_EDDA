@@ -24,6 +24,12 @@
     <ClInclude Include="MeioDeME.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ClienteFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Constantes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Program.c">
